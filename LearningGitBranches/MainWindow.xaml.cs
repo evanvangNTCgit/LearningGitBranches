@@ -28,6 +28,7 @@ namespace LearningGitBranches
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            // Alright the final check is passed! Is is now in the main.
             // Okay now testing team has done all of their tests... And does not see any edge cases. 
             // Okay from the development team everything looks alright. Thumbs up!!
             var dateOfCreation = new DateTime(2025, 9, 19);
