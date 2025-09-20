@@ -9,6 +9,7 @@
     <Grid>
         <Grid>
             <Button x:Name="firstCommitButton" Grid.Column="0" Grid.Row="0" Content="First Commit Button" Click="firstCommitButton_Click"/>
+            <Button x:Name="projectDateButton" Grid.Column="1" Grid.Row="0" Content="How long has this project been up?" Click="Button_Click"/>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>

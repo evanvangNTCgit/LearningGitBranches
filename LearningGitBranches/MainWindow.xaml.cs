@@ -25,5 +25,12 @@ namespace LearningGitBranches
         {
             MessageBox.Show("This button was made on the first commit by Evan Vang when he was learning about git branches!!");
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var dateOfCreation = new DateTime(2025, 9, 19);
+
+            MessageBox.Show($"{dateOfCreation}");
+        }
     }
 }
