@@ -35,5 +35,11 @@ namespace LearningGitBranches
 
             MessageBox.Show($"{dateOfCreation}");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var evanImageWindow = new Window1();
+            evanImageWindow.Show();
+        }
     }
 }
