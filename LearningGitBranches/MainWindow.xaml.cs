@@ -38,6 +38,7 @@ namespace LearningGitBranches
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            // Okay from the development team we added some text providing more context on Evan creating the project.
             var evanImageWindow = new Window1();
             evanImageWindow.Show();
         }

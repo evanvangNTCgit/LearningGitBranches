@@ -8,6 +8,7 @@
         Title="Window1" Height="450" Width="800">
     <Grid>
         <Image x:Name="evanImage" HorizontalAlignment="Left" Height="307" Margin="226,59,0,0" VerticalAlignment="Top" Width="326" Source="/NewPFP-Photoroom.png"/>
+        <Label Content="Evan created this project on 9/19" HorizontalAlignment="Left" Margin="226,371,0,0" VerticalAlignment="Top" Width="307"/>
 
     </Grid>
 </Window>
