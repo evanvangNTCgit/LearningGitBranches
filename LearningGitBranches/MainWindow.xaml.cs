@@ -38,6 +38,7 @@ namespace LearningGitBranches
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            // Now merged into master.
             // Everything looks fine, no edge cases seen so far...-testing team
             // Okay from the development team we added some text providing more context on Evan creating the project.
             var evanImageWindow = new Window1();
